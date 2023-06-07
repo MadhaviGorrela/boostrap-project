@@ -1,0 +1,11 @@
+.about-images img{
+    height: 200px;
+    width: 100%;
+}
+.about-images{
+    width: 20%;
+    height: 40%;    
+}
+#pills-tab{
+    justify-content: center;
+}
